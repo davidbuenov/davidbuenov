@@ -1,13 +1,6 @@
 # 👋 ¡Hola! / Hello! Soy David Bueno Vallejo
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PhD-Doctor%20en%20Inform%C3%A1tica-blue?style=for-the-badge&logo=education&logoColor=white" alt="PhD"/>
-  <img src="https://img.shields.io/badge/UMA-Profesor%20Titular-007cc2?style=for-the-badge&logo=university&logoColor=white" alt="UMA Professor"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-Instructor%20Autorizado%20(Gold)-f7a22b?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine Instructor"/>
-  <img src="https://img.shields.io/badge/Ex--CIO-M%C3%A1laga-success?style=for-the-badge&logo=goverment&logoColor=white" alt="Ex-CIO Málaga"/>
-</p>
-
-<p align="center">
   <a href="https://davidbuenov.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio%20Web-davidbuenov.github.io-00d2ff?style=flat-square&logo=githubpages&logoColor=white" alt="Portafolio Web"/>
   </a>
