@@ -121,8 +121,8 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 ### 📊 Estadísticas de GitHub / GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidbuenov&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=f7a22b&icon_color=f7a22b&text_color=c9d1d9&border_color=30363d&cache_bust=1" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidbuenov&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=f7a22b&icon_color=f7a22b&text_color=c9d1d9&border_color=30363d&cache_bust=1" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-git.vercel.app/api?username=davidbuenov&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=f7a22b&icon_color=f7a22b&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-git.vercel.app/api/top-langs?username=davidbuenov&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=f7a22b&icon_color=f7a22b&text_color=c9d1d9&border_color=30363d" alt="Top Languages" width="48%"/>
 </p>
 
 ---
