@@ -97,6 +97,9 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 ### 🚀 Proyectos en GitHub / GitHub Projects
 
 #### 🤖 Inteligencia Artificial y Agentes / AI & Agentic Tools
+*   **[dbv-pdf2md](https://github.com/davidbuenov/dbv-pdf2md):** Conversor avanzado de PDF a Markdown optimizado para agentes de IA (Claude, Gemini), con extracción física de imágenes, reconstrucción geométrica de enlaces e integración MCP.
+*   **[dbv-skills](https://github.com/davidbuenov/dbv-skills):** Colección centralizada de Custom Skills y herramientas para potenciar agentes de IA (Gemini CLI, Antigravity & Claude Desktop).
+*   **[dbv-reputation-index](https://github.com/davidbuenov/dbv-reputation-index):** Skill para auditar la reputación online directamente en asistentes de IA (sin servidores ni API keys del proyecto).
 *   **[dbv-minority-report](https://github.com/davidbuenov/dbv-minority-report):** Interfaz médica touchless (Three.js + MediaPipe).
 *   **[dbv-voice-transcrypt](https://github.com/davidbuenov/dbv-voice-transcrypt):** Transcriptor local GPU Whisper + análisis local Gemma 4/Gemini.
 *   **[dbv-specs-ops](https://github.com/davidbuenov/dbv-specs-ops):** Blueprint de desarrollo senior para asistentes de IA.
@@ -105,6 +108,7 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 *   **[dbv-agentic-edu-SQL](https://github.com/davidbuenov/dbv-agentic-edu-SQL):** Laboratorio educativo de agentes de IA autónomos sobre bases de datos relacionales.
 
 #### 🎮 Unreal Engine, C++ y Realidad Virtual / Game Dev & VR
+*   **[dbv-mcp-server](https://github.com/davidbuenov/dbv-mcp-server):** Servidor de MCP para facilitar la conexión con el servidor oficial de Unreal Engine.
 *   **[VRGK-Community-Project-UE5](https://github.com/davidbuenov/VRGK-Community-Project-UE5):** Template VR compilado y optimizado para Meta Quest 3 en UE 5.3.
 *   **[unreal-smart-cleaner](https://github.com/davidbuenov/unreal-smart-cleaner):** Limpiador de archivos temporales de Unreal Engine en Python para liberar GBs de disco.
 *   **[Unreal-universal-platform](https://github.com/davidbuenov/Unreal-universal-platform):** Código C++ para plataformas móviles físicas y oscilantes.
@@ -115,7 +119,7 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 *   **[CombinarCorrespondencia](https://github.com/davidbuenov/CombinarCorrespondencia) (⭐ 30+):** Automatización avanzada de correspondencia Word/Excel, PDFs, firma digital y correo.
 *   **[eer-studio](https://github.com/davidbuenov/eer-studio):** Editor en TypeScript para modelar diagramas Entidad-Relación extendidos (Chen).
 *   **[ai-courses-catalog](https://github.com/davidbuenov/ai-courses-catalog):** Buscador interactivo de cursos de IA por nivel y categoría.
-*   **[cwebp-script](https://github.com/davidbuenov/cwebp-script):** Conversión por lotes a formato de compresión WebP.
+*   **[dbv-img2webp](https://github.com/davidbuenov/dbv-img2webp):** Conversor en lote de imágenes a WebP en Python con GUI, CLI y soporte MCP.
 
 
 ---
