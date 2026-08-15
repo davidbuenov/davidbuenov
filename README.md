@@ -115,6 +115,7 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 *   **[NeuroSync_Player](https://github.com/davidbuenov/NeuroSync_Player):** Streaming de blendshapes faciales a UE5 vía LiveLink desde audio.
 
 #### 💼 Automatización y Herramientas / Automation & Web Tools
+*   **[dbv-md-reader](https://github.com/davidbuenov/dbv-md-reader) (⭐ 39):** Lector nativo de Markdown (.md) de solo lectura ultra-ligero, seguro y veloz para Windows basado en Rust y Tauri v2 (disponible en Microsoft Store).
 *   **[dbv-md2word](https://github.com/davidbuenov/dbv-md2word):** Conversor personalizable de Markdown a Word (.docx) con interfaz web local, CLI, GitHub Action y servidor MCP.
 *   **[CombinarCorrespondencia](https://github.com/davidbuenov/CombinarCorrespondencia) (⭐ 30+):** Automatización avanzada de correspondencia Word/Excel, PDFs, firma digital y correo.
 *   **[eer-studio](https://github.com/davidbuenov/eer-studio):** Editor en TypeScript para modelar diagramas Entidad-Relación extendidos (Chen).
