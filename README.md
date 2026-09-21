@@ -77,7 +77,7 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
       <ul>
         <li><b>Engines:</b> PostgreSQL, Oracle, MySQL, SQL Server</li>
         <li><b>Design:</b> Extended ER (Chen) diagrams modeling</li>
-        <li><b>Backend:</b> Python, Node.js, TypeScript</li>
+        <li><b>Backend & Desktop:</b> Python, Rust (Tauri v2), Node.js, TypeScript</li>
         <li><b>Macros:</b> VBA (Microsoft Word/Excel Office Automation)</li>
       </ul>
     </td>
@@ -97,30 +97,35 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 ### 🚀 Proyectos en GitHub / GitHub Projects
 
 #### 🤖 Inteligencia Artificial y Agentes / AI & Agentic Tools
+*   **[dbv-specs-ops](https://github.com/davidbuenov/dbv-specs-ops) (⭐ 25):** Blueprint de desarrollo senior para asistentes de IA.
+*   **[ai-coding-best-practices](https://github.com/davidbuenov/ai-coding-best-practices) (⭐ 9):** Guías de buenas prácticas y prompts optimizados para programar con IAs (Copilot, ChatGPT, Gemini).
+*   **[dbv-reputation-index](https://github.com/davidbuenov/dbv-reputation-index) (⭐ 8):** Skill para auditar la reputación online directamente en asistentes de IA (sin servidores ni API keys del proyecto).
 *   **[dbv-pdf2md](https://github.com/davidbuenov/dbv-pdf2md):** Conversor avanzado de PDF a Markdown optimizado para agentes de IA (Claude, Gemini), con extracción física de imágenes, reconstrucción geométrica de enlaces e integración MCP.
 *   **[dbv-skills](https://github.com/davidbuenov/dbv-skills):** Colección centralizada de Custom Skills y herramientas para potenciar agentes de IA (Gemini CLI, Antigravity & Claude Desktop).
-*   **[dbv-reputation-index](https://github.com/davidbuenov/dbv-reputation-index):** Skill para auditar la reputación online directamente en asistentes de IA (sin servidores ni API keys del proyecto).
 *   **[dbv-minority-report](https://github.com/davidbuenov/dbv-minority-report):** Interfaz médica touchless (Three.js + MediaPipe).
 *   **[dbv-voice-transcrypt](https://github.com/davidbuenov/dbv-voice-transcrypt):** Transcriptor local GPU Whisper + análisis local Gemma 4/Gemini.
-*   **[dbv-specs-ops](https://github.com/davidbuenov/dbv-specs-ops):** Blueprint de desarrollo senior para asistentes de IA.
+*   **[dbv-gemma4-lab](https://github.com/davidbuenov/dbv-gemma4-lab) (⭐ 4):** Laboratorio y experimentos prácticos de integración local con el modelo Gemma 4 de Google.
 *   **[dbv-pdf2deck](https://github.com/davidbuenov/dbv-pdf2deck):** Convertidor OCR local offline de PDF a PowerPoint editable.
 *   **[dbv-nano-banana](https://github.com/davidbuenov/dbv-nano-banana):** UI en Streamlit para interactuar de forma privada con Gemini.
-*   **[dbv-agentic-edu-SQL](https://github.com/davidbuenov/dbv-agentic-edu-SQL):** Laboratorio educativo de agentes de IA autónomos sobre bases de datos relacionales.
+*   **[dbv-agentic-edu-SQL](https://github.com/davidbuenov/dbv-agentic-edu-SQL) (⭐ 4):** Laboratorio educativo de agentes de IA autónomos sobre bases de datos relacionales.
 
 #### 🎮 Unreal Engine, C++ y Realidad Virtual / Game Dev & VR
-*   **[dbv-mcp-server](https://github.com/davidbuenov/dbv-mcp-server):** Servidor de MCP para facilitar la conexión con el servidor oficial de Unreal Engine.
-*   **[VRGK-Community-Project-UE5](https://github.com/davidbuenov/VRGK-Community-Project-UE5):** Template VR compilado y optimizado para Meta Quest 3 en UE 5.3.
-*   **[unreal-smart-cleaner](https://github.com/davidbuenov/unreal-smart-cleaner):** Limpiador de archivos temporales de Unreal Engine en Python para liberar GBs de disco.
-*   **[Unreal-universal-platform](https://github.com/davidbuenov/Unreal-universal-platform):** Código C++ para plataformas móviles físicas y oscilantes.
+*   **[VRGK-Community-Project-UE5](https://github.com/davidbuenov/VRGK-Community-Project-UE5) (⭐ 13):** Template VR compilado y optimizado para Meta Quest 3 en UE 5.3.
+*   **[dbv-mcp-server](https://github.com/davidbuenov/dbv-mcp-server) (⭐ 7):** Servidor de MCP para facilitar la conexión con el servidor oficial de Unreal Engine.
+*   **[unreal-smart-cleaner](https://github.com/davidbuenov/unreal-smart-cleaner) (⭐ 6):** Limpiador de archivos temporales de Unreal Engine en Python para liberar GBs de disco.
+*   **[Unreal-universal-platform](https://github.com/davidbuenov/Unreal-universal-platform) (⭐ 4):** Código C++ para plataformas móviles físicas y oscilantes.
 *   **[NeuroSync_Player](https://github.com/davidbuenov/NeuroSync_Player):** Streaming de blendshapes faciales a UE5 vía LiveLink desde audio.
 
 #### 💼 Automatización y Herramientas / Automation & Web Tools
-*   **[dbv-md-reader](https://github.com/davidbuenov/dbv-md-reader) (⭐ 39):** Lector nativo de Markdown (.md) de solo lectura ultra-ligero, seguro y veloz para Windows basado en Rust y Tauri v2 (disponible en Microsoft Store).
+*   **[dbv-md-reader](https://github.com/davidbuenov/dbv-md-reader) (⭐ 48):** Lector y editor nativo de Markdown (.md) ultra-ligero, seguro y veloz para Windows, Linux y macOS basado en Rust y Tauri v2 (disponible en Microsoft Store).
+*   **[CombinarCorrespondencia](https://github.com/davidbuenov/CombinarCorrespondencia) (⭐ 30):** Automatización avanzada de correspondencia Word/Excel, PDFs, firma digital y correo.
+*   **[ai-courses-catalog](https://github.com/davidbuenov/ai-courses-catalog) (⭐ 28):** Buscador interactivo de cursos de IA por nivel y categoría.
+*   **[dbv-typst-editor](https://github.com/davidbuenov/dbv-typst-editor) (⭐ 4):** Editor de escritorio nativo para Typst centrado en documentos, offline y multiplataforma (Windows, Linux, macOS) construido con Rust, Tauri v2 y CodeMirror 6, con vista previa y sincronización en tiempo real (disponible en Microsoft Store).
 *   **[dbv-md2word](https://github.com/davidbuenov/dbv-md2word):** Conversor personalizable de Markdown a Word (.docx) con interfaz web local, CLI, GitHub Action y servidor MCP.
-*   **[CombinarCorrespondencia](https://github.com/davidbuenov/CombinarCorrespondencia) (⭐ 30+):** Automatización avanzada de correspondencia Word/Excel, PDFs, firma digital y correo.
-*   **[eer-studio](https://github.com/davidbuenov/eer-studio):** Editor en TypeScript para modelar diagramas Entidad-Relación extendidos (Chen).
-*   **[ai-courses-catalog](https://github.com/davidbuenov/ai-courses-catalog):** Buscador interactivo de cursos de IA por nivel y categoría.
+*   **[dbv-eer-studio](https://github.com/davidbuenov/dbv-eer-studio):** Editor interactivo en TypeScript para diseñar y modelar diagramas Entidad-Relación extendidos siguiendo la notación de Chen.
 *   **[dbv-img2webp](https://github.com/davidbuenov/dbv-img2webp):** Conversor en lote de imágenes a WebP en Python con GUI, CLI y soporte MCP.
+*   **[dbv-teleprompter](https://github.com/davidbuenov/dbv-teleprompter):** Aplicación web interactiva y ligera para apuntador electrónico (teleprompter) en PC, móviles o tablets.
+*   **[dbv-dias-festivos](https://github.com/davidbuenov/dbv-dias-festivos):** Utilidad en Python para consultar y exportar el calendario oficial de días festivos en formatos estructurados JSON/CSV.
 
 
 ---
