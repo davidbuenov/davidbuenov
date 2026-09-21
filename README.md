@@ -117,12 +117,12 @@ I hold a **PhD in Computer Engineering** (2003) and am an **Associate Professor 
 *   **[NeuroSync_Player](https://github.com/davidbuenov/NeuroSync_Player):** Streaming de blendshapes faciales a UE5 vía LiveLink desde audio.
 
 #### 💼 Automatización y Herramientas / Automation & Web Tools
-*   **[dbv-md-reader](https://github.com/davidbuenov/dbv-md-reader) (⭐ 48):** Lector y editor nativo de Markdown (.md) ultra-ligero, seguro y veloz para Windows, Linux y macOS basado en Rust y Tauri v2 (disponible en Microsoft Store).
+*   **[dbv-md-reader](https://github.com/davidbuenov/dbv-md-reader) (⭐ 48) — [Web](https://davidbuenov.github.io/dbv-md-reader/):** Lector y editor nativo de Markdown (.md) ultra-ligero, seguro y veloz para Windows, Linux y macOS basado en Rust y Tauri v2 (disponible en Microsoft Store).
 *   **[CombinarCorrespondencia](https://github.com/davidbuenov/CombinarCorrespondencia) (⭐ 30):** Automatización avanzada de correspondencia Word/Excel, PDFs, firma digital y correo.
-*   **[ai-courses-catalog](https://github.com/davidbuenov/ai-courses-catalog) (⭐ 28):** Buscador interactivo de cursos de IA por nivel y categoría.
-*   **[dbv-typst-editor](https://github.com/davidbuenov/dbv-typst-editor) (⭐ 4):** Editor de escritorio nativo para Typst centrado en documentos, offline y multiplataforma (Windows, Linux, macOS) construido con Rust, Tauri v2 y CodeMirror 6, con vista previa y sincronización en tiempo real (disponible en Microsoft Store).
+*   **[ai-courses-catalog](https://github.com/davidbuenov/ai-courses-catalog) (⭐ 28) — [Web](https://davidbuenov.github.io/ai-courses-catalog/):** Buscador interactivo de cursos de IA por nivel y categoría.
+*   **[dbv-typst-editor](https://github.com/davidbuenov/dbv-typst-editor) (⭐ 4) — [Web](https://davidbuenov.github.io/dbv-typst-editor/):** Editor de escritorio nativo para Typst centrado en documentos, offline y multiplataforma (Windows, Linux, macOS) construido con Rust, Tauri v2 y CodeMirror 6, con vista previa y sincronización en tiempo real (disponible en Microsoft Store).
 *   **[dbv-md2word](https://github.com/davidbuenov/dbv-md2word):** Conversor personalizable de Markdown a Word (.docx) con interfaz web local, CLI, GitHub Action y servidor MCP.
-*   **[dbv-eer-studio](https://github.com/davidbuenov/dbv-eer-studio):** Editor interactivo en TypeScript para diseñar y modelar diagramas Entidad-Relación extendidos siguiendo la notación de Chen.
+*   **[dbv-eer-studio](https://github.com/davidbuenov/dbv-eer-studio) — [Web](https://davidbuenov.github.io/dbv-eer-studio/):** Editor interactivo en TypeScript para diseñar y modelar diagramas Entidad-Relación extendidos siguiendo la notación de Chen.
 *   **[dbv-img2webp](https://github.com/davidbuenov/dbv-img2webp):** Conversor en lote de imágenes a WebP en Python con GUI, CLI y soporte MCP.
 *   **[dbv-teleprompter](https://github.com/davidbuenov/dbv-teleprompter):** Aplicación web interactiva y ligera para apuntador electrónico (teleprompter) en PC, móviles o tablets.
 *   **[dbv-dias-festivos](https://github.com/davidbuenov/dbv-dias-festivos):** Utilidad en Python para consultar y exportar el calendario oficial de días festivos en formatos estructurados JSON/CSV.
